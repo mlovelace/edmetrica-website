@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Matthew Lovelace"
+name = "Nelson Bighetti"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -9,23 +9,23 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Director of Research"
+role = "Professor of Artificial Intelligence"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Director of Research, Gwinnett County Public Schools", url = "https://publish.gwinnett.k12.ga.us/gcps/home" }, {name="Education Research Consultant, edMetrica LLC", url="www.edmetrica.com"} ]
+organizations = [ { name = "Stanford University", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My interests include early warning systems for identifying at-risk students, dropout, and open science for education research."
+bio = "My research interests include distributed robotics, mobile computing and programmable matter."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Early Warning Systems",
-  "Student Engagement",
-  "Open Science for Education"
+  "Artificial Intelligence",
+  "Computational Linguistics",
+  "Information Retrieval"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -34,19 +34,19 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Educational Psychology"
-  institution = "University of Georgia"
-  year = 2013
+  course = "PhD in Artificial Intelligence"
+  institution = "Stanford University"
+  year = 2012
 
 [[education.courses]]
-  course = "MA in Educational Psychology"
-  institution = "University of Georgia"
-  year = 2010
+  course = "MEng in Artificial Intelligence"
+  institution = "Massachusetts Institute of Technology"
+  year = 2009
 
 [[education.courses]]
-  course = "BA in Psychology"
-  institution = "University of Tennessee-Knoxville"
-  year = 2003
+  course = "BSc in Artificial Intelligence"
+  institution = "Massachusetts Institute of Technology"
+  year = 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -56,22 +56,22 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"
+  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
   icon = "twitter"
   icon_pack = "fab"
-  link = "https://twitter.com/m_d_lovelace"
+  link = "https://twitter.com/GeorgeCushen"
 
 [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
-  link = "https://scholar.google.com/citations?user=UDAnHi4AAAAJ&hl=en"
+  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/mlovelace"
+  link = "https://github.com/gcushen"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -82,4 +82,6 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Matthew Lovelace is an educational researcher with over a decade of experience working in the field of K-12 public education. Matthew is director of research for Gwinnett County Public Schools (GCPS), a system of 141 schools and more than 180,000 K-12 students. He is highly skilled in statistical programming and in the application of quantitative methods to large-scale research and evaluation projects.
+Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
