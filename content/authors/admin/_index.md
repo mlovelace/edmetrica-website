@@ -1,4 +1,5 @@
 ---
+name = "Matthew Lovelace"
 authors:
 - admin
 bio: My interests include early warning systems for identifying at-risk students, dropout, and open science for education research.
@@ -18,7 +19,6 @@ interests:
 - Early Warning Systems
 - Student Engagement
 - Open Science for Education
-name: Matthew Lovelace
 organizations:
 - name: Director of Research, Gwinnett County Public Schools
   url: ""
