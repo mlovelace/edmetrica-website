@@ -1,6 +1,6 @@
 +++
 # Display name
-name = ["Matthew Lovelace"]
+# name = ["Matthew Lovelace"]
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -9,7 +9,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Director of Research"
+role = "Matthew Lovelace"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
