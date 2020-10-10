@@ -23,9 +23,10 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Early Warning Systems",
-  "Student Engagement",
-  "Open Science for Education"
+  "Early warning systems/Applied predictive modeling",
+  "Data science for education",
+  "Open science",
+  "Programming & project workflow"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -82,4 +83,8 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Matthew Lovelace is an educational researcher with over a decade of experience working in the field of K-12 public education. Matthew is director of research for Gwinnett County Public Schools (GCPS), a system of 141 schools and more than 180,000 K-12 students. He is highly skilled in statistical programming and in the application of quantitative methods to large-scale research and evaluation projects.
+I am director of research for Gwinnett County Public Schools (GCPS), a district located in metro Atlanta and one of the largest school systems in the United States. I am an educational researcher with more than a decade of experience applying quantitative methods to large-scale research and evaluation projects in the field of K-12 public education. 
+
+My primary research interest is in the development and application of early warning systems, essentially addressing the complex question: How do we best identify student risk accurately and early enough, with the least bias possible, and in a way this most useful for stakeholders? 
+
+My training is in the more traditional aspects of research and statistical methods for education, but I am also deeply interested in data science. I am skilled in statistical programming (a devoted R/RStudio/tidyverse enthusiast, who also knows a little SQL and Python), project workflow, and a strong supporter of open science.
