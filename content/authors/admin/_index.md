@@ -83,8 +83,10 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I am director of research for Gwinnett County Public Schools (GCPS), a district located in metro Atlanta and one of the largest school systems in the United States. I am an educational researcher with more than a decade of experience applying quantitative methods to large-scale research and evaluation projects in the field of K-12 public education. 
+I am an educational researcher with more than a decade of experience applying quantitative methods to large-scale research and evaluation projects in the field of K-12 public education. I am currently director of research for Gwinnett County Public Schools (GCPS), a district located in metro Atlanta and one of the largest school systems in the United States. 
 
-My primary research interest is in the development and application of early warning systems, essentially addressing the complex question: How do we best identify student risk accurately and early enough, with the least bias possible, and in a way that is most useful for stakeholders? 
+One of my primary research interests is the development and application of early warning systems, essentially addressing the complex question: How do we best identify student risk accurately and early enough, with the least bias possible, and in a way that is most useful for stakeholders? 
 
 My training is in the more traditional aspects of research and statistical methods for education, but I am also deeply interested in data science. I am skilled in statistical programming and project workflow (a devoted R/RStudio/tidyverse enthusiast, who also knows a little SQL and Python), as well as a strong supporter of open science.
+
+Outside of my working life, I enjoy songwriting, exploring the natural wonders and hiking trails of North Georgia with my kids, and trying to be a little less mediocre at weightlifting.
